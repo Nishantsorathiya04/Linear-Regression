@@ -1,4 +1,4 @@
-# Linear-Regression on Fish market
+# Weight Prediction on Fish market Dataset
 Database of common fish species for fish market.
 ## About this Dataset
 Content
